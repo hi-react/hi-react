@@ -17,10 +17,13 @@
 
 ### 💖 Like
 - sashimi 🐟 
-- meduim rare beef🍖 
+- meduim rare beef 🍖 
 - every drink except sake 🍷🍻🍸🥃 
 - jazz 📯 
 - bed 😴
+- coding 💻
+- netflix 🎬
+- travel 🚀
 
 ### 💻 Experience
 
