@@ -15,6 +15,13 @@
 - Frontend Engineer
 - ISTJ
 
+### 💖 Like
+- sashimi 🐟 
+- meduim rare beef🍖 
+- every drink except sake 🍷🍻🍸🥃 
+- jazz 📯 
+- bed 😴
+
 ### 💻 Experience
 
 - **[2024.01.02 ~ ]** *SSAFY (Samsung SW Academy For Youth) Java 과정 이수 중*
