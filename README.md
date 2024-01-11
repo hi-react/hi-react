@@ -4,13 +4,11 @@
 
 <a href=mailto:godeeyeon@gmail.com>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=000000">
-</a>
-
-<a href="https://hi-react.tistory.com">
+</a>  <a href="https://github.com/hi-react">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+</a>  <a href="https://hi-react.tistory.com">
 <img src="https://img.shields.io/badge/Tistory-EC4815?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
-
-
 
 ### ✨Keyword
 
@@ -19,6 +17,7 @@
 
 ### 💻 Experience
 
+- [2024.01.02 ~ ] *SSAFY (Samsung SW Academy For Youth) Java 과정 이수 중*
 - [2023.11.06 ~ 2023.11.24] *스파르타 코딩클럽 DevCamp 심화 교육 수료*
 - [2023.05.18 ~ 2023.09.19] *스파르타 코딩클럽 내일배움캠프 React 6기 수료*
 
